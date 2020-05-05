@@ -1,0 +1,15 @@
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\bin\Debug\WPF_Multi_Threated_Counter.exe.config
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\bin\Debug\WPF_Multi_Threated_Counter.exe
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\bin\Debug\WPF_Multi_Threated_Counter.pdb
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\obj\Debug\WPF_Multi_Threated_Counter.csprojAssemblyReference.cache
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\obj\Debug\MainWindow.g.cs
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\obj\Debug\App.g.cs
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\obj\Debug\WPF_Multi_Threated_Counter_MarkupCompile.cache
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\obj\Debug\WPF_Multi_Threated_Counter_MarkupCompile.lref
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\obj\Debug\MainWindow.baml
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\obj\Debug\WPF_Multi_Threated_Counter.g.resources
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\obj\Debug\WPF_Multi_Threated_Counter.Properties.Resources.resources
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\obj\Debug\WPF_Multi_Threated_Counter.csproj.GenerateResource.cache
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\obj\Debug\WPF_Multi_Threated_Counter.csproj.CoreCompileInputs.cache
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\obj\Debug\WPF_Multi_Threated_Counter.exe
+C:\Users\Summar\source\repos\SummarWPFProjects\WPF_Multi_Threated_Counter\obj\Debug\WPF_Multi_Threated_Counter.pdb
